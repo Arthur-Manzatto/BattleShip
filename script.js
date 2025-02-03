@@ -245,3 +245,6 @@ function createMatrix(rows, cols) {
     return matrix;
 }
 
+function testedogit(){
+    alert("Testei o git")
+}
