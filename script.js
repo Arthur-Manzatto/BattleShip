@@ -246,5 +246,5 @@ function createMatrix(rows, cols) {
 }
 
 function testedogit(){
-    alert("Testando o git para primeiro commit de verdade")
+    alert("commitei namoralzinha e agora vou testar se precisa de init ou não")
 }
