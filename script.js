@@ -246,5 +246,5 @@ function createMatrix(rows, cols) {
 }
 
 function testedogit(){
-    alert("commitei namoralzinha e agora vou testar se precisa de init ou não")
+    alert("estou testando o clone agr")
 }
