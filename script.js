@@ -246,5 +246,5 @@ function createMatrix(rows, cols) {
 }
 
 function testedogit(){
-    alert("commitei usando o bat pronto")
+    alert("testando os comandos com o pedro")
 }
